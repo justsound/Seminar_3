@@ -104,3 +104,7 @@ no-js">`.
 двойными апострофами: ``There is a literal backtick (`)
 here.``
 >>>>>>> inline_code
+
+### Горизонтальная черта
+
+### Картинки 
