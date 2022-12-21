@@ -118,5 +118,5 @@ here.``
 знак.
 
 Картинки-ссылки:
-[!%D0%BA%D0%BE%D1%82%D0%B8%D0%BA.jpg](https://gb.ru/lessons/291665/homework]
+[![котик](котик.jpg)](https://pikabu.ru/story/esli_byi_programmistyi_stroili_doma_9744376)
 
