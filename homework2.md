@@ -107,6 +107,10 @@ here.``
 
 ### Горизонтальная черта
 
-xnj ,s tot nfrjuj yfgbcfnm xnj,s ,skj f,hfrfl,hjq
+`hr`создается тремя звездочками или тремя дефисами.
+
+***
+
+>>>>>>> gorizont_line
 
 ### Картинки 
